@@ -1,0 +1,10 @@
+COMESTIBLES
+fideos
+cafe
+arroz
+harina
+azucar
+
+Articulos de Limpieza
+detergene
+lavandina
